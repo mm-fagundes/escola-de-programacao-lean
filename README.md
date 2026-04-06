@@ -39,11 +39,9 @@ O modelo de ensino da ELP é baseado nos **5 Princípios Lean**:
 
 ## Status do Projeto
 
-> 🟡 Em fase de conceito e documentação. O desenvolvimento da plataforma está previsto
+> Em fase de conceito e documentação. O desenvolvimento da plataforma está previsto
 para iniciar em breve.
 
-## Autor
 
-Feito com foco e sem desperdício por **Mateus Fagundes**.
 
 
