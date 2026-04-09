@@ -35,7 +35,7 @@ O modelo de ensino da ELP é baseado nos **5 Princípios Lean**:
 
 ## Documentação
 
-- [Documento de Visão](./docs/DocumentoDeVisao.pdf)
+- [Documento de Visão](./docs/Vision%20Document/Vision%20Document.pdf)
 
 ## Status do Projeto
 
